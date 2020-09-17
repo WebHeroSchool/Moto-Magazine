@@ -1,0 +1,12 @@
+.img-moto {
+  width: 600px;
+  height: 400px;
+}
+* {
+  font-family: 'Comfortaa', cursive;
+  color: green;
+}
+.header__title{
+  font-family: 'Oswald', sans-serif;
+  color: blue;
+}
